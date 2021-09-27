@@ -1,0 +1,5 @@
+# This file is puppet managed
+
+[default]
+aws_access_key_id = <%= scope.lookupvar('aws_access_key_id_var') %>
+aws_secret_access_key = <%= scope.lookupvar('aws_secret_access_key_var') %>
