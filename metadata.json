@@ -1,6 +1,6 @@
 {
   "name": "hemantgangwar-terraform",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Hemant Gangwar",
   "summary": "This module is centred around installing terraform and related aws CLI in Linux node.",
   "license": "Apache-2.0",
